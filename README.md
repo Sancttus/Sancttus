@@ -8,12 +8,12 @@ I am fascinated by technology in general, creating things and learning.
 My motivational phrase (hehehehe).
 
 <strong>My hobbies</strong></br>
--Technology🛰🛰🛰</br>
--Photo editor📸</br>
--Films🎞🎭</br>
--Music🎼🎧</br>
--Video games🎮🏆</br>
--Boxe💪</br>
+-<i>Technology</i>🛰🛰🛰</br>
+-<i>Photo editor</i>📸</br>
+-<i>Films</i>🎞🎭</br>
+-<i>Music</i>🎼🎧</br>
+-<i>Video games</i>🎮🏆</br>
+-<i>Boxe💪</i></br>
 Well, that's a little bit about me.
 
 
