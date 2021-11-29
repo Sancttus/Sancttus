@@ -1,4 +1,4 @@
-Hello!
+Hello There!
 I'm Diego Santos "Sanctus".
 
 I'm currently studying programming, front-end development.</br>
@@ -19,15 +19,14 @@ Well, that's a little bit about me.
 
 
 
-
-
-
-
+ </br>
 <div align="center">
   <a href="https://github.com/Sancttus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sancttus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sancttus&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sancttus&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sancttus&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+  
+   </br>
   
   
   <div style="display: inline_block"><br>
@@ -39,5 +38,32 @@ Well, that's a little bit about me.
   <img align="center" alt="Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-
 </div>
+
+  </br>
+  
+<div style="display: block">
+     
+   <a href = "digodark100@gmail.com">
+     <img height="40" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
+  <a href = "mailto:contatorafaballerini@gmail.com">
+    <img height="40" width="100" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
+   <a href="https://www.instagram.com/diigowsp/" target="_blank">
+     <img height="40" width="100" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+   </a>
+  
+   <a href="https://www.facebook.com/diego.pereira.315" target="_blank">
+     <img height="40" width="100" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+   </a>
+  
+   <a href="https://www.linkedin.com/in/diego-pereira-0a8b30211/" target="_blank">
+     <img height="40" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a>
+  
+</div>
+  
+
