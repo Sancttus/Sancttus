@@ -44,11 +44,8 @@ Well, that's a little bit about me.
   
 <div style="display: block">
      
-   <a href = "digodark100@gmail.com">
-     <img height="40" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
   
-  <a href = "mailto:contatorafaballerini@gmail.com">
+  <a href = "mailto:digodark100@gmail.com">
     <img height="40" width="100" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
