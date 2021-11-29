@@ -1,19 +1,19 @@
-Hello There!
-I'm Diego Santos "Sanctus".
+Hello There!🖐
+I'm Diego Santos "Sanctus".🧙‍♂️
 
-I'm currently studying programming, front-end development.</br>
+I'm currently studying programming, front-end development.</br>👨‍💻
 I am fascinated by technology in general, creating things and learning.
 
-"A day that you learn nothing is a day lost".</br>
+"A day that you learn nothing is a day lost".</br>😎🙌
 My motivational phrase (hehehehe).
 
 My hobbies
--Technology</br>
--Photo editor</br>
--Films</br>
--Music</br>
--Video games</br>
--Boxe</br>
+-Technology</br>🛰🛰🛰
+-Photo editor</br>📸
+-Films</br>🎞🎭
+-Music</br>🎼🎧
+-Video games</br>🎮🏆
+-Boxe</br>💪
 Well, that's a little bit about me.
 
 
