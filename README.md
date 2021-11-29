@@ -7,7 +7,7 @@ I am fascinated by technology in general, creating things and learning.
 "A day that you learn nothing is a day lost".😎🙌 </br>
 My motivational phrase (hehehehe).
 
-My hobbies
+<strong>My hobbies</strong></br>
 -Technology🛰🛰🛰</br>
 -Photo editor📸</br>
 -Films🎞🎭</br>
