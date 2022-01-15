@@ -1,7 +1,7 @@
 Hello There!🖐 </br>
 I'm Diego Santos "Sanctus".🧙‍♂️
 
-I'm currently studying programming, front-end development.👨‍💻 </br>
+I'm currently studying information Technology.👨‍💻 </br>
 I am fascinated by technology in general, creating things and learning.
 
 "A day that you learn nothing is a day lost".😎🙌 </br>
